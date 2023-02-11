@@ -2,7 +2,7 @@
     export let name = "";
 </script>
 
-<svg id="svgLogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2028 594" style="fill: white;">
+<svg id="svgLogo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="250 0 2028 594" style="fill: white;">
     <defs>
         <style>
             .cls-1 {
